@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Travel Insight</string>
+    <string name="back_icon_info">Back</string>
+    <string name="heart_icon_info">Favorite Button</string>
+    <string name="profile_image_info">About Me</string>
+
+    <string name="add_booking_place">Add Booking Place</string>
+    <string name="add_review_place">Add Review</string>
+    <string name="place_name">Place Name</string>
+    <string name="notes">Notes</string>
+    <string name="content">Messages</string>
+    <string name="author">Author</string>
+    <string name="visit_date">Visit Date</string>
+    <string name="price">Price</string>
+    <string name="no_travel_place">No Places</string>
+    <string name="text_empty_content">No Bookings Found</string>
+    <string name="text_empty_review">No Reviews Found</string>
+    <string name="add_booking">Add Booking</string>
+    <string name="add_review">Add Review</string>
+    <string name="update_place">Update Booking Place</string>
+    <string name="update_review">Update Booking Place</string>
+    <string name="delete_place">Delete Booking Place</string>
+    <string name="delete_review">Delete Review Place</string>
+    <string name="all_travels_title">Travels List</string>
+    <string name="all_booking_title">Bookings List</string>
+    <string name="all_reviews_title">Reviews List</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_booking">Booking</string>
+    <string name="menu_review">Review</string>
+
+</resources>

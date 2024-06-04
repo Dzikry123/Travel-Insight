@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AnimatedSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/avd_travel</item>
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+        <item name="postSplashScreenTheme">@style/Theme.TravelInsight</item>
+    </style>
+
+    <style name="Theme.TravelInsight" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/background_color</item>
+    </style>
+
+<!--    <style name="Theme.TourismApp" parent="android:Theme.Material.Light.NoActionBar">-->
+<!--        <item name="android:statusBarColor">@color/background_color</item>-->
+<!--    </style>-->
+</resources>
